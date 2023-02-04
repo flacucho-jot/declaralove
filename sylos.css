@@ -1,0 +1,32 @@
+*{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: bisque;
+}
+button{
+    width: 90px;
+    height: 40px;
+    font-size: 25px;
+    background-color: white;
+}
+
+.container{
+    text-align:center;
+    width: 100vw;
+    height: 100vh   ;
+}
+
+
+h1{
+    text-decoration: none;
+    padding: 10%;
+}
+ 
+#yesBtn{
+    transform: translate(-100%, 0);
+}
+
+#noBtn{
+    position: absolute;
+}
